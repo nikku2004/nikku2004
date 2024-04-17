@@ -12,9 +12,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahesh2-lab.mahesh2-lab&"  />
-</div>
+
 
 ###
 
@@ -57,11 +55,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahesh2-lab&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=nikku2004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/mahesh2-lab/mahesh2-lab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nikku2004/nikku2004/output/snake.svg" alt="Snake animation" />
 
 ###
