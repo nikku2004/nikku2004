@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/nikku2004/nikku2004/assets/167338593/1e02ea6b-3236-4733-9403-6185e33504ee" />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/216654128-ad1c5827-e18e-43a6-974b-3669cbb082b9.gif" />
 </div>
 
 ###
