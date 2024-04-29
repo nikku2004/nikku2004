@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">I'm Nikita from Amaravati<br><br>- 🔭 I’m studying Engineering</p>
+<p>I am </p><h3>Nikita Chandak</h3>
+
+<p align="left">I'm from Amaravati<br><br>- 🔭 I’m studying Engineering</p>
 
 ###
 
